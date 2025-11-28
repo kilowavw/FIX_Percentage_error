@@ -1,7 +1,7 @@
-# Battery Percentage Icon
-1. See your battery percentage and charging status in the Windows system tray.
-2. Get Windows notification when your battery is critical, low, high, and full.
-3. See more battery details such as charge rate, designed capacity and battery health in the main app window.
+#Still In Progress 🛠️🛠️
+
+# Battery Percentage Icon FIX
+This is a fix on the famous app Battery Percentage Icon
 
 ## Getting the app
 This app requires Windows 11.
